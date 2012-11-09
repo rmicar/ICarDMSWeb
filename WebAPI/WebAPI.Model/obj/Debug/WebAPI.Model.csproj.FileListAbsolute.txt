@@ -1,0 +1,10 @@
+C:\Users\ramon.moliner\Desktop\ICarDMSWeb\bin\Debug\ICarDMSWeb.Model.dll
+C:\Users\ramon.moliner\Desktop\ICarDMSWeb\bin\Debug\ICarDMSWeb.Model.pdb
+C:\Users\ramon.moliner\Desktop\ICarDMSWeb\WebAPI\WebAPI.Model\obj\Debug\WebAPI.Model.csprojResolveAssemblyReference.cache
+C:\Users\ramon.moliner\Desktop\ICarDMSWeb\WebAPI\WebAPI.Model\obj\Debug\ICarDMSWeb.Model.dll
+C:\Users\ramon.moliner\Desktop\ICarDMSWeb\WebAPI\WebAPI.Model\obj\Debug\ICarDMSWeb.Model.pdb
+C:\Mis Fuentes\ICarDMSWeb\bin\Debug\ICarDMSWeb.Model.dll
+C:\Mis Fuentes\ICarDMSWeb\bin\Debug\ICarDMSWeb.Model.pdb
+C:\Mis Fuentes\ICarDMSWeb\WebAPI\WebAPI.Model\obj\Debug\ICarDMSWeb.Model.dll
+C:\Mis Fuentes\ICarDMSWeb\WebAPI\WebAPI.Model\obj\Debug\ICarDMSWeb.Model.pdb
+C:\Mis Fuentes\ICarDMSWeb\WebAPI\WebAPI.Model\obj\Debug\WebAPI.Model.csprojResolveAssemblyReference.cache

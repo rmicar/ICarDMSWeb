@@ -1,0 +1,36 @@
+CACHE MANIFEST
+######################################################
+# v1 - 2012-07-13
+######################################################
+# Hay que configurar los tipos MIME del servidor (IIS/Apache) 
+# para aceptar fichero .appcache, .woff, etc
+#
+#	.appcache text/cache-manifest
+#	.woff  application/x-woff
+######################################################
+
+
+fonts/dejavusans-webfont.woff
+
+
+#js/vendor/modernizr-2.5.3_min.js
+js/vendor/modernizr-2.5.3.js
+js/vendor/jquery-1.7.2.min.js
+#js/vendor/ember-0.9.8.1.min.js
+js/vendor/ember-0.9.8.1.js
+js/vendor/cldr-1.0.1.js
+js/vendor/ember-i18n-latest.js 
+#js/vendor/ember-data-latest_min.js
+js/vendor/ember-data-latest.js
+
+#index.html
+#css/icardms.css
+#js/modules/icardms-i18n.js
+#js/modules/icardms-handlebars.js
+#js/icardms-appstart.js
+#js/icardms-main.js
+
+images/favicon.ico
+images/loading.gif
+
+

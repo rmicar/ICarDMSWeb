@@ -1,0 +1,5 @@
+C:\Mis Fuentes\ICarDMSWeb\bin\Release\ICarDMSWeb.API.dll
+C:\Mis Fuentes\ICarDMSWeb\bin\Release\ICarDMSWeb.API.pdb
+C:\Mis Fuentes\ICarDMSWeb\WebAPI\WebAPI.API\obj\Release\WebAPI.API.csprojResolveAssemblyReference.cache
+C:\Mis Fuentes\ICarDMSWeb\WebAPI\WebAPI.API\obj\Release\ICarDMSWeb.API.dll
+C:\Mis Fuentes\ICarDMSWeb\WebAPI\WebAPI.API\obj\Release\ICarDMSWeb.API.pdb

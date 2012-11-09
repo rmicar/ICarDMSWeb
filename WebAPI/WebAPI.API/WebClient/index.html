@@ -1,0 +1,101 @@
+﻿<!doctype html>
+<!-- Condicionales para contrarestar IE -->	
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+
+
+<!-- 
+    Atributo "manifest"
+    Esto sirve para establecer caching de ficheros a nivel de browser
+ -->
+<!--
+    Atributo "no-js"
+    Modernizr.js will remove the no-js class
+    This allows you to make CSS rules for .no-js something to apply them only if Javascript is disabled.
+-->
+   
+<html 
+    manifest="icardmsxxxx.appcache" 
+    lang="en"     
+    class="no-js"
+>
+<!--<![endif]-->
+	<head>
+		<!-- UTF -->	
+		<meta charset="UTF-8">
+
+		<!-- Autoría  -->
+		<meta name="description" content="Laboratorio ICarDMSWeb">
+		<meta name="author" content="Sage Inc.">
+		<meta name="copyright" content="http://www.sage.fr/automobile/solution-progicielle-erp-automobile-icardms" />
+
+		<!-- Si IE, que se use la última versión instalada -->
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">	
+
+		<!-- Dispositivos moviles  -->
+		<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=3.0; user-scalable=yes">
+	    	
+		<!-- iOS (iPhone/iPad)  -->
+		<meta name="apple-mobile-web-app-capable" content="yes">				
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+        <meta content="text/html; charset=utf-8" http-equiv="content-type" />	
+        <!--
+        <link rel="apple-touch-icon" href="images/icardmsicon.png"/>
+        -->
+
+		<!-- Título de la página y su favicon.ico  -->
+		<title>ICarDMS Web</title>  
+		<link href="images/favicon.ico" rel="shortcut icon" type='image/x-icon' >
+
+		<!-- Cargar hoja de estilo  -->
+		<link href="css/icardms.css"  rel="stylesheet" type="text/css" media="all"/>
+	</head>
+
+	<body>
+        <!-- Badge "Versión Alpha"  -->
+        <div id="versionalpha">
+            <a href="http://www.sage.fr/automobile/solution-progicielle-erp-automobile-icardms" title="ICarDMS Classic">Version Alpha</a>
+        </div>
+
+        <!-- Plantillas Handlebar 
+         
+        <script type="text/x-handlebars">
+          {{view ICarDMS.RootView}}
+        </script>
+        -->
+
+        <!-- Modulos Javascript terceros en un CDN -->
+        <!--
+        <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.7.2/jquery.min.js"             type="text/javascript" charset="utf-8"></script>
+        <script src="http://cdnjs.cloudflare.com/ajax/libs/ember.js/0.9.8.1/ember-0.9.8.1.min.js"  type="text/javascript" charset="utf-8"></script>
+        -->
+
+        <!-- Modulos Javascript terceros -->    
+               
+        <script src="js/vendor/modernizr-2.6.2.js"        type="text/javascript" charset="utf-8"></script>
+        <script src="js/vendor/jquery-1.8.2.min.js"       type="text/javascript" charset="utf-8"></script>
+        <script src="js/vendor/handlebars-1.0.rc.1.js"          type="text/javascript" charset="utf-8"></script>  
+        <script src="js/vendor/ember-1.0.0-pre.2.min.js"          type="text/javascript" charset="utf-8"></script>  
+        <script src="js/vendor/cldr-1.0.1.js"             type="text/javascript" charset="utf-8"></script>       
+        <script src="js/vendor/ember-i18n-latest.js"      type="text/javascript" charset="utf-8"></script>	  
+        <script src="js/vendor/ember-data-latest.js"           type="text/javascript" charset="utf-8"></script>	  
+        <script src="js/vendor/require.js"             type="text/javascript" charset="utf-8"></script>
+       
+        <!--
+        <script src="js/app.min.js"        type="text/javascript" charset="utf-8"></script>
+        -->
+
+        <!-- Modulos Javascript ICarDMS -->
+        <!--
+        <script src="js/modules/icardms-i18n.js"        type="text/javascript" charset="utf-8"></script>
+        <script src="js/modules/icardms-templates.js"   type="text/javascript" charset="utf-8"></script>	
+        <script src="js/modules/icardms-controllers.js" type="text/javascript" charset="utf-8"></script>		  
+        <script src="js/modules/icardms-views.js"       type="text/javascript" charset="utf-8"></script>	
+        <script src="js/modules/icardms-appstart.js"    type="text/javascript" charset="utf-8"></script>	
+        -->
+        
+        <script src="js/icardms-main.js"                type="text/javascript" charset="utf-8"></script>
+     </body>
+</html>

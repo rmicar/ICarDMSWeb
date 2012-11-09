@@ -1,0 +1,26 @@
+C:\Users\ramon.moliner\Desktop\ICarDMSWeb\WebAPI\WebAPI.Interface\bin\Debug\ICarDMSWeb.Interface.dll
+C:\Users\ramon.moliner\Desktop\ICarDMSWeb\WebAPI\WebAPI.Interface\bin\Debug\ICarDMSWeb.Interface.pdb
+C:\Users\ramon.moliner\Desktop\ICarDMSWeb\WebAPI\WebAPI.Interface\bin\Debug\ServiceStack.Common.dll
+C:\Users\ramon.moliner\Desktop\ICarDMSWeb\WebAPI\WebAPI.Interface\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\ramon.moliner\Desktop\ICarDMSWeb\WebAPI\WebAPI.Interface\bin\Debug\ServiceStack.ServiceInterface.dll
+C:\Users\ramon.moliner\Desktop\ICarDMSWeb\WebAPI\WebAPI.Interface\bin\Debug\ServiceStack.dll
+C:\Users\ramon.moliner\Desktop\ICarDMSWeb\WebAPI\WebAPI.Interface\bin\Debug\ServiceStack.Common.xml
+C:\Users\ramon.moliner\Desktop\ICarDMSWeb\WebAPI\WebAPI.Interface\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\ramon.moliner\Desktop\ICarDMSWeb\WebAPI\WebAPI.Interface\bin\Debug\ServiceStack.xml
+C:\Users\ramon.moliner\Desktop\ICarDMSWeb\WebAPI\WebAPI.Interface\obj\Debug\WebAPI.Interface.csprojResolveAssemblyReference.cache
+C:\Users\ramon.moliner\Desktop\ICarDMSWeb\WebAPI\WebAPI.Interface\obj\Debug\ICarDMSWeb.Interface.dll
+C:\Users\ramon.moliner\Desktop\ICarDMSWeb\WebAPI\WebAPI.Interface\obj\Debug\ICarDMSWeb.Interface.pdb
+C:\Mis Fuentes\ICarDMSWeb\WebAPI\WebAPI.Interface\bin\Debug\ICarDMSWeb.Interface.dll
+C:\Mis Fuentes\ICarDMSWeb\WebAPI\WebAPI.Interface\bin\Debug\ICarDMSWeb.Interface.pdb
+C:\Mis Fuentes\ICarDMSWeb\WebAPI\WebAPI.Interface\bin\Debug\ServiceStack.Common.dll
+C:\Mis Fuentes\ICarDMSWeb\WebAPI\WebAPI.Interface\bin\Debug\ServiceStack.Interfaces.dll
+C:\Mis Fuentes\ICarDMSWeb\WebAPI\WebAPI.Interface\bin\Debug\ServiceStack.ServiceInterface.dll
+C:\Mis Fuentes\ICarDMSWeb\WebAPI\WebAPI.Interface\bin\Debug\ServiceStack.dll
+C:\Mis Fuentes\ICarDMSWeb\WebAPI\WebAPI.Interface\bin\Debug\ServiceStack.Common.xml
+C:\Mis Fuentes\ICarDMSWeb\WebAPI\WebAPI.Interface\bin\Debug\ServiceStack.Interfaces.xml
+C:\Mis Fuentes\ICarDMSWeb\WebAPI\WebAPI.Interface\bin\Debug\ServiceStack.xml
+C:\Mis Fuentes\ICarDMSWeb\WebAPI\WebAPI.Interface\obj\Debug\ICarDMSWeb.Interface.dll
+C:\Mis Fuentes\ICarDMSWeb\WebAPI\WebAPI.Interface\obj\Debug\ICarDMSWeb.Interface.pdb
+C:\Mis Fuentes\ICarDMSWeb\bin\Debug\ICarDMSWeb.Interface.dll
+C:\Mis Fuentes\ICarDMSWeb\bin\Debug\ICarDMSWeb.Interface.pdb
+C:\Mis Fuentes\ICarDMSWeb\WebAPI\WebAPI.Interface\obj\Debug\WebAPI.Interface.csprojResolveAssemblyReference.cache

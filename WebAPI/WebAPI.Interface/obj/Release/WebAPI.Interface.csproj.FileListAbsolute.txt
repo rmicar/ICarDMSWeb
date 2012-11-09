@@ -1,0 +1,26 @@
+C:\Users\ramon.moliner\Desktop\ICarDMSWeb\WebAPI\WebAPI.Interface\bin\Release\ICarDMSWeb.Interface.dll
+C:\Users\ramon.moliner\Desktop\ICarDMSWeb\WebAPI\WebAPI.Interface\bin\Release\ICarDMSWeb.Interface.pdb
+C:\Users\ramon.moliner\Desktop\ICarDMSWeb\WebAPI\WebAPI.Interface\bin\Release\ServiceStack.Common.dll
+C:\Users\ramon.moliner\Desktop\ICarDMSWeb\WebAPI\WebAPI.Interface\bin\Release\ServiceStack.Interfaces.dll
+C:\Users\ramon.moliner\Desktop\ICarDMSWeb\WebAPI\WebAPI.Interface\bin\Release\ServiceStack.ServiceInterface.dll
+C:\Users\ramon.moliner\Desktop\ICarDMSWeb\WebAPI\WebAPI.Interface\bin\Release\ServiceStack.dll
+C:\Users\ramon.moliner\Desktop\ICarDMSWeb\WebAPI\WebAPI.Interface\bin\Release\ServiceStack.Common.xml
+C:\Users\ramon.moliner\Desktop\ICarDMSWeb\WebAPI\WebAPI.Interface\bin\Release\ServiceStack.Interfaces.xml
+C:\Users\ramon.moliner\Desktop\ICarDMSWeb\WebAPI\WebAPI.Interface\bin\Release\ServiceStack.xml
+C:\Users\ramon.moliner\Desktop\ICarDMSWeb\WebAPI\WebAPI.Interface\obj\Release\WebAPI.Interface.csprojResolveAssemblyReference.cache
+C:\Users\ramon.moliner\Desktop\ICarDMSWeb\WebAPI\WebAPI.Interface\obj\Release\ICarDMSWeb.Interface.dll
+C:\Users\ramon.moliner\Desktop\ICarDMSWeb\WebAPI\WebAPI.Interface\obj\Release\ICarDMSWeb.Interface.pdb
+C:\Mis Fuentes\ICarDMSWeb\WebAPI\WebAPI.Interface\bin\Release\ICarDMSWeb.Interface.dll
+C:\Mis Fuentes\ICarDMSWeb\WebAPI\WebAPI.Interface\bin\Release\ICarDMSWeb.Interface.pdb
+C:\Mis Fuentes\ICarDMSWeb\WebAPI\WebAPI.Interface\bin\Release\ServiceStack.Common.dll
+C:\Mis Fuentes\ICarDMSWeb\WebAPI\WebAPI.Interface\bin\Release\ServiceStack.Interfaces.dll
+C:\Mis Fuentes\ICarDMSWeb\WebAPI\WebAPI.Interface\bin\Release\ServiceStack.ServiceInterface.dll
+C:\Mis Fuentes\ICarDMSWeb\WebAPI\WebAPI.Interface\bin\Release\ServiceStack.dll
+C:\Mis Fuentes\ICarDMSWeb\WebAPI\WebAPI.Interface\bin\Release\ServiceStack.Common.xml
+C:\Mis Fuentes\ICarDMSWeb\WebAPI\WebAPI.Interface\bin\Release\ServiceStack.Interfaces.xml
+C:\Mis Fuentes\ICarDMSWeb\WebAPI\WebAPI.Interface\bin\Release\ServiceStack.xml
+C:\Mis Fuentes\ICarDMSWeb\WebAPI\WebAPI.Interface\obj\Release\ICarDMSWeb.Interface.dll
+C:\Mis Fuentes\ICarDMSWeb\WebAPI\WebAPI.Interface\obj\Release\ICarDMSWeb.Interface.pdb
+C:\Mis Fuentes\ICarDMSWeb\bin\Release\ICarDMSWeb.Interface.dll
+C:\Mis Fuentes\ICarDMSWeb\bin\Release\ICarDMSWeb.Interface.pdb
+C:\Mis Fuentes\ICarDMSWeb\WebAPI\WebAPI.Interface\obj\Release\WebAPI.Interface.csprojResolveAssemblyReference.cache
