@@ -13,7 +13,7 @@ using ServiceStack.Logging;
 
 using ICarDMS.Interface;
 using ICarDMS.Model;
-using ICarDMS.Proxy;
+using ICarDMS.Proxy.Net;
 
 
 namespace ICarDMS.Service

@@ -7,9 +7,26 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI.Model", "WebAPI\WebA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI.Interface", "WebAPI\WebAPI.Interface\WebAPI.Interface.csproj", "{32AB99CE-8367-4104-9EDE-5A6BA9B8D04F}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3A026FD4-1041-4C87-BB71-CC8E11887CA6}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Github Readme", "Github Readme", "{3A026FD4-1041-4C87-BB71-CC8E11887CA6}"
 	ProjectSection(SolutionItems) = preProject
 		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebAPI.PB", "WebAPI.PB", "{B7DDE557-1B2C-4731-BDB6-FBAEC9C92E79}"
+	ProjectSection(SolutionItems) = preProject
+		WebAPI\WebAPI.PB\WebAPI.PB.pbwx = WebAPI\WebAPI.PB\WebAPI.PB.pbwx
+		WebAPI\WebAPI.PB\WebAPI.Proxy.pbtx = WebAPI\WebAPI.PB\WebAPI.Proxy.pbtx
+		WebAPI\WebAPI.PB\WebAPI.Proxy.tlat_dat = WebAPI\WebAPI.PB\WebAPI.Proxy.tlat_dat
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "webapiproxy.pbl", "webapiproxy.pbl", "{E6107ACB-E1FB-4C03-A071-7001BD9A1AF8}"
+	ProjectSection(SolutionItems) = preProject
+		WebAPI\WebAPI.PB\webapiproxy.pbl\app.xaml = WebAPI\WebAPI.PB\webapiproxy.pbl\app.xaml
+		WebAPI\WebAPI.PB\webapiproxy.pbl\n_webapiproxy.sru = WebAPI\WebAPI.PB\webapiproxy.pbl\n_webapiproxy.sru
+		WebAPI\WebAPI.PB\webapiproxy.pbl\webapiproxy.llat_dat = WebAPI\WebAPI.PB\webapiproxy.pbl\webapiproxy.llat_dat
+		WebAPI\WebAPI.PB\webapiproxy.pbl\webapiproxy.pblx = WebAPI\WebAPI.PB\webapiproxy.pbl\webapiproxy.pblx
+		WebAPI\WebAPI.PB\webapiproxy.pbl\webapiproxy_app.sra = WebAPI\WebAPI.PB\webapiproxy.pbl\webapiproxy_app.sra
+		WebAPI\WebAPI.PB\webapiproxy.pbl\webapiproxy_proj.srj = WebAPI\WebAPI.PB\webapiproxy.pbl\webapiproxy_proj.srj
 	EndProjectSection
 EndProject
 Global
@@ -33,5 +50,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E6107ACB-E1FB-4C03-A071-7001BD9A1AF8} = {B7DDE557-1B2C-4731-BDB6-FBAEC9C92E79}
 	EndGlobalSection
 EndGlobal

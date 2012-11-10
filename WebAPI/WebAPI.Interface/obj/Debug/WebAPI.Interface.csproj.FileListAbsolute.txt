@@ -23,4 +23,3 @@ C:\Mis Fuentes\ICarDMSWeb\WebAPI\WebAPI.Interface\obj\Debug\ICarDMSWeb.Interface
 C:\Mis Fuentes\ICarDMSWeb\WebAPI\WebAPI.Interface\obj\Debug\ICarDMSWeb.Interface.pdb
 C:\Mis Fuentes\ICarDMSWeb\bin\Debug\ICarDMSWeb.Interface.dll
 C:\Mis Fuentes\ICarDMSWeb\bin\Debug\ICarDMSWeb.Interface.pdb
-C:\Mis Fuentes\ICarDMSWeb\WebAPI\WebAPI.Interface\obj\Debug\WebAPI.Interface.csprojResolveAssemblyReference.cache

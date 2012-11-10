@@ -3,4 +3,3 @@ C:\Mis Fuentes\ICarDMSWeb\bin\Release\ICarDMSWeb.Model.dll
 C:\Mis Fuentes\ICarDMSWeb\bin\Release\ICarDMSWeb.Model.pdb
 C:\Mis Fuentes\ICarDMSWeb\WebAPI\WebAPI.Model\obj\Release\ICarDMSWeb.Model.dll
 C:\Mis Fuentes\ICarDMSWeb\WebAPI\WebAPI.Model\obj\Release\ICarDMSWeb.Model.pdb
-C:\Mis Fuentes\ICarDMSWeb\WebAPI\WebAPI.Model\obj\Release\WebAPI.Model.csprojResolveAssemblyReference.cache

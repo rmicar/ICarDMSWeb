@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Project MSBuildVersion="2.0" ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Target Name="ResolveAssemblyReferences" />
+  <PropertyGroup>
+    <Name>icardmsbo</Name>
+    <SchemaVersion>2</SchemaVersion>
+    <ProjectGuid>{15810222-3045-4e2d-8341-fe419769bf54}</ProjectGuid>
+    <Comment>
+    </Comment>
+    <CreateNewFolder>true</CreateNewFolder>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <Platform>AnyCPU</Platform>
+    <AssemblyName>icardmsbo</AssemblyName>
+    <RootNamespace>icardmsbo</RootNamespace>
+    <OutputType>Library</OutputType>
+    <TargetType>DotNetAssembly</TargetType>
+    <ApplicationName>webapiproxy_app</ApplicationName>
+    <ApplicationObject>webapiproxy_app</ApplicationObject>
+    <ApplicationLibrary>webapiproxy.pbl\webapiproxy.pblx</ApplicationLibrary>
+    <PBOriginalVersion>12.5.0</PBOriginalVersion>
+    <ReferencePath>$(DevEnvDir)\DotNET\bin</ReferencePath>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <LibraryList>{7155a4f3-3aac-4947-b176-210541f2ce41}</LibraryList>
+    <PBProjectDefault>{29945ebf-f3be-4e6f-9b87-feeb2b164920},webapiproxy_proj.srj,41Fxx;</PBProjectDefault>
+    <PBProjectsDeploy>{7155a4f3-3aac-4947-b176-210541f2ce41},webapiproxy_proj.srj,41Fxx;</PBProjectsDeploy>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>false</DebugSymbols>
+    <OutputPath>icardmsbo.out\bin\Release\</OutputPath>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>icardmsbo.out\bin\Debug\</OutputPath>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ICarDMSWeb.Interface, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <Name>ICarDMSWeb.Interface</Name>
+      <AssemblyName>ICarDMSWeb.Interface.dll</AssemblyName>
+      <Private>True</Private>
+      <HintPath>..\..\bin\Release\ICarDMSWeb.Interface.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Data">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="WindowsBase">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="PresentationCore">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="PresentationFramework">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Sybase.PowerBuilder.WPF.Controls, Version=12.5.0.0, Culture=neutral, PublicKeyToken=598c7456a83d557a">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Sybase.PowerBuilder.WCF.Runtime, Version=12.5.0.0, Culture=neutral, PublicKeyToken=598c7456a83d557a">
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <SubProject Include="webapiproxy.pbl\webapiproxy.pblx">
+      <Name>webapiproxy</Name>
+      <TypeGuid>{1e00f043-675a-11d2-bca5-000086095dda}</TypeGuid>
+      <InstanceGuid>{7155a4f3-3aac-4947-b176-210541f2ce41}</InstanceGuid>
+    </SubProject>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Sybase\PowerBuilder\12.5\PowerBuilder.targets" />
+</Project>

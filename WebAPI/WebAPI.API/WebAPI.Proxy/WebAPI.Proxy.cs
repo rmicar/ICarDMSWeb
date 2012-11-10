@@ -3,9 +3,9 @@ using ServiceStack.Logging;
 using ServiceStack.ServiceInterface.ServiceModel;
 using ServiceStack.ServiceInterface;
 using ICarDMS.Interface;
-//using ICarDMS.BO;
+using ICarDMS.Proxy.PB;
 
-namespace ICarDMS.Proxy
+namespace ICarDMS.Proxy.Net
 {
     public class ICarDMSProxy : IPBProxy
     {
@@ -40,18 +40,21 @@ namespace ICarDMS.Proxy
             this.requestDTO = paramRequest;
             this.responseDTO = paramResponse;
             Log.Debug("ICarDMSProxy.ExecuteBO()");
-    //        n_icardmswebbo pepe = new n_icardmswebbo();
-    //        pepe.execute(this);
+            ICarDMS.Proxy.PB.n_webapiproxy pepe = new ICarDMS.Proxy.PB.n_webapiproxy();
+            pepe.execute(this);
             return;
         }
+        /*
         public object Execute(object request)
         {
             Log.Debug("ICarDMSProxy.ExecuteBO()");
             requestDTO = request;
-   //         n_icardmswebbo pepe = new n_icardmswebbo();
+            //         n_webapiproxy pepe = new n_webapiproxy();
    //         pepe.execute(this);
             return responseDTO;
         }
+         */
+         
         public void Debug (string message)
         {
             if (LogBO.IsDebugEnabled)
